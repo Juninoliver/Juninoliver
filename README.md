@@ -1,4 +1,4 @@
-## Olá eu sou o Junior Oliveira, criador de conteúdo de programação e tecnologia!
+## Olá eu sou o Junior Oliveira, criador de conteúdo de programação e tecnologia!👨‍💻
 
 
 <div style="display: inline_block"><br>
