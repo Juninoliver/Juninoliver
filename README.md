@@ -1,4 +1,4 @@
-## Olá eu sou o Junior Oliveira, Sou dev Full Stack👨‍💻
+## Olá eu sou o Junior Oliveira, atuo como desenvolvedor back-end👨‍💻
 
 
 <div style="display: inline_block"><br>
