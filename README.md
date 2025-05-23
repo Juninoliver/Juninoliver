@@ -1,4 +1,4 @@
-## Olá eu sou o Junior Oliveira 👨‍💻
+## Olá, eu sou o Junior Oliveira 👨‍💻
 
 
 <div style="display: inline_block"><br>
