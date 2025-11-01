@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Junior Oliveira
 
-🎓 Estudante / Desenvolvedor / Entusiasta de tecnologia   
-🌱 Bacharelado em Ciência da Computação
+👨‍💻 Estudante / Desenvolvedor / Entusiasta de tecnologia   
+🎓 Bacharelado em Ciência da Computação
 📫 Como me encontrar: Juniorolive76@gmail.com
 
 ---
